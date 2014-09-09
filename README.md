@@ -1,4 +1,9 @@
 TwitchFav
 =========
 
-Automatically displays your top favorited Twitch stream
+Automatically displays your favorited Twitch stream with the most viewers
+
+Uses Twitch REST API
+
+Go to:
+http://twitchfav.herokuapp.com/<username>
